@@ -1,1 +1,2 @@
 Testing text for git
+Testing text for git 2
